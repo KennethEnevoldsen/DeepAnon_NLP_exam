@@ -1,0 +1,19 @@
+{
+    "ORG": "ORGANIZATION - Companies, agencies, institutions e.g. Jyske Bank, Georgia-Pacific Corp.",
+    "PERS": "PERSON - (including fictional) Eddy Bonte, President Obama",
+    "USER": "USERNAME - reddituser101",
+    "EVENT": "EVENT - Named hurricane, sport event etc.",
+    "NAMIT": "NAMED ITEM, titles of books, songs, works of art, products etc.",
+    "LANG": "LANGUAGE",
+    "GPE": "GPE - Countries cities, states - South East Asia, Midlothian",
+    "NORP": "nationalities, religious or political groups",
+    "LOC": "LOCATION not included in GPE - e.g. streetname, Murray River, Mount Everest",
+    "DATE": "DATE/TIME - June, 2008-06-29",
+    "MON": "MONEY - 175 million Canadian Dollars, GBP 10.40",
+    "IDNUM": "ID NUMBER - Passport number, CPR, reg. nr., phonenumber etc.",
+    "NUM": "NUMBER - Number that does not fall into another type",
+    "WEB": "WEBSITE - e.g. dr.dk, minhjemmeside dot com",
+    "EMAIL": "E-MAIL - e.g. eksempel@gmail.com, Charlie (at) live dot com",
+    "PTITLE": "PERSONAL TITLE - e.g. Mr. Mrs. Professor etc.",
+    "EIsC": "Especially identifiable characteristics, tattoos, hair color, composure etc."
+}
